@@ -1,0 +1,15 @@
+C:\Users\yusa4\source\repos\StajTakipProjesi\StajTakipProjesi\bin\Debug\StajTakipProjesi.exe.config
+C:\Users\yusa4\source\repos\StajTakipProjesi\StajTakipProjesi\bin\Debug\StajTakipProjesi.exe
+C:\Users\yusa4\source\repos\StajTakipProjesi\StajTakipProjesi\bin\Debug\StajTakipProjesi.pdb
+C:\Users\yusa4\source\repos\StajTakipProjesi\StajTakipProjesi\obj\Debug\StajTakipProjesi.csproj.AssemblyReference.cache
+C:\Users\yusa4\source\repos\StajTakipProjesi\StajTakipProjesi\obj\Debug\StajTakipProjesi.Form1.resources
+C:\Users\yusa4\source\repos\StajTakipProjesi\StajTakipProjesi\obj\Debug\StajTakipProjesi.Properties.Resources.resources
+C:\Users\yusa4\source\repos\StajTakipProjesi\StajTakipProjesi\obj\Debug\StajTakipProjesi.csproj.GenerateResource.cache
+C:\Users\yusa4\source\repos\StajTakipProjesi\StajTakipProjesi\obj\Debug\StajTakipProjesi.csproj.CoreCompileInputs.cache
+C:\Users\yusa4\source\repos\StajTakipProjesi\StajTakipProjesi\obj\Debug\StajTakipProjesi.exe
+C:\Users\yusa4\source\repos\StajTakipProjesi\StajTakipProjesi\obj\Debug\StajTakipProjesi.pdb
+C:\Users\yusa4\source\repos\StajTakipProjesi\StajTakipProjesi\obj\Debug\StajTakipProjesi.Pages.StudentInfo.resources
+C:\Users\yusa4\source\repos\StajTakipProjesi\StajTakipProjesi\obj\Debug\StajTakipProjesi.Pages.SplashScreen.resources
+C:\Users\yusa4\source\repos\StajTakipProjesi\StajTakipProjesi\obj\Debug\StajTakipProjesi.Pages.Home.resources
+C:\Users\yusa4\source\repos\StajTakipProjesi\StajTakipProjesi\obj\Debug\StajTakipProjesi.Pages.TeacherInfo.resources
+C:\Users\yusa4\source\repos\StajTakipProjesi\StajTakipProjesi\obj\Debug\StajTakipProjesi.Pages.CompanyInfo.resources
